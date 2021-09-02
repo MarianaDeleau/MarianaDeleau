@@ -13,9 +13,11 @@
 
 ## 👩‍💻 Contact
 
-[![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/DeleauMariana) 
-[![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://www.linkedin.com/in/mariana-deleau/)
-
+<p>
+ <a href="https://github.com/MarianaDeleau" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/mariana-deleau" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://twitter.com/DeleauMariana" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
 ## 🔝 Statistics
 [![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaDeleau)](https://github.com/anuraghazra/github-readme-stats)
