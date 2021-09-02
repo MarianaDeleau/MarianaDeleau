@@ -1,6 +1,7 @@
-# 👋 Hi! I am Mariana Deleau
-## Welcome to my GitHub
+# 👋 Hi! I´m Mariana
+## 🌴🌴 Welcome to my GitHub 🌴🌴
 
+![me](https://marianadeleau.github.io/ada-8va-portafolio/assets/images/DrawHome.png)
 
 [![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaDeleau)](https://github.com/anuraghazra/github-readme-stats)
 <!--
