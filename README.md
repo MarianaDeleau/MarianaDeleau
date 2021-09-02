@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  ![DrawHome](https://user-images.githubusercontent.com/80056016/131883458-233163a8-483d-4848-9308-50cc3a550ece.png)
+  <a href=" https://marianadeleau.github.io/ada-8va-portafolio/" target="_blank"> ![DrawHome](https://user-images.githubusercontent.com/80056016/131883458-233163a8-483d-4848-9308-50cc3a550ece.png) </a>
   
 </div>
 
@@ -22,15 +22,21 @@
 
 ## ℹ Things I code with
 
-<!--<p>
+<p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-006DB7?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EFD81D?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
- </p> -->
+</p>
  
- <p align="left">
+ #### soon...
+ <p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+ <p>
+    
+<!--<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
@@ -43,7 +49,7 @@
   
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>  
-</p>
+</p>-->
 
 
  ## 📊 Statistics
