@@ -1,4 +1,6 @@
-### Hi there 👋
+# 👋 Hi! I am Mariana Deleau
+## Welcome to my GitHub
+
 
 [![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaDeleau)](https://github.com/anuraghazra/github-readme-stats)
 <!--
