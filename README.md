@@ -11,7 +11,7 @@
   
 </div>
 
-## 👩‍💻 Contact
+## 📫 Contact
 
 <p>
  <a href="https://github.com/MarianaDeleau" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -31,8 +31,12 @@
  </p>
  
  
- ## 🔝 Statistics
+ ## 📊 Statistics
 [![Mariana's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaDeleau)](https://github.com/anuraghazra/github-readme-stats)
+
+## 👩‍💻🌱 https://marianadeleau.github.io/ada-8va-portafolio/
+
+
 <div align="center"; margin-top="50px">
 
 ![Under construction](https://user-images.githubusercontent.com/282759/84681715-8c7cb580-af02-11ea-85a4-05d069c72121.gif)
