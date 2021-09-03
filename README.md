@@ -34,7 +34,6 @@
   <img alt="Boostrap" src="https://img.shields.io/badge/-Bootstrap-7A11F0?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  
 </p>
  
  #### soon...
