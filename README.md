@@ -7,8 +7,7 @@
 
 <div align="center">
   
- <!--![DrawHome](https://user-images.githubusercontent.com/80056016/131883458-233163a8-483d-4848-9308-50cc3a550ece.png) -->
-  <a href="https://marianadeleau.github.io/ada-8va-portafolio/" target="_blank"><img alt="Portfolio" src="https://user-images.githubusercontent.com/80056016/131883458-233163a8-483d-4848-9308-50cc3a550ece.png" /></a>
+  <a href="https://marianadeleau.github.io/ada-8va-portafolio/" target="_blank"><img alt="Portfolio" src="https://user-images.githubusercontent.com/80056016/132052114-b594976c-af18-47e8-a136-ab292b801ca6.png" width="600"/></a>
   <p align="center">
    :point_up: Check my portfolio
   </p>
@@ -31,8 +30,10 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-006DB7?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EFD81D?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Boostrap" src="https://img.shields.io/badge/-Bootstrap-7A11F0?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  
 </p>
  
  #### soon...
